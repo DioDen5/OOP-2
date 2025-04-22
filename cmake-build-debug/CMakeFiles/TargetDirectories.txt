@@ -1,0 +1,3 @@
+/Users/denyszastavnyi/Documents/oop-lab-project-2/cmake-build-debug/CMakeFiles/oop_lab_project_2.dir
+/Users/denyszastavnyi/Documents/oop-lab-project-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denyszastavnyi/Documents/oop-lab-project-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+# ninja log v6
+2	159	1744202597477900834	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+1	459	1744202597476690072	CMakeFiles/oop_lab_project_2.dir/main.cpp.o	1a496f512978a6b2
+461	564	1744202597936474401	oop_lab_project_2	ed150cfb0141b5de
+12	546	1745948920222833592	CMakeFiles/oop_lab_project_2.dir/main.cpp.o	1a496f512978a6b2
+13	577	1745948920224147301	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+577	720	1745948920788510619	oop_lab_project_2	ed150cfb0141b5de
+4	523	1745951779533131242	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+524	630	1745951780052156469	oop_lab_project_2	ed150cfb0141b5de
+4	583	1745952402660549892	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+583	687	1745952403239574587	oop_lab_project_2	ed150cfb0141b5de
+4	561	1745952932873033304	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+561	666	1745952933430202622	oop_lab_project_2	ed150cfb0141b5de
+9	598	1745953367191036703	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+598	703	1745953367779718107	oop_lab_project_2	ed150cfb0141b5de
+10	557	1745953846374483882	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+557	645	1745953846921564053	oop_lab_project_2	ed150cfb0141b5de
+4	574	1745955162816936330	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+4	541	1745955284150864561	CMakeFiles/oop_lab_project_2.dir/Triangle.cpp.o	6e6da42a8fb4f8a4
+541	629	1745955284687679471	oop_lab_project_2	ed150cfb0141b5de
