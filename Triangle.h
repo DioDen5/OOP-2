@@ -1,7 +1,11 @@
 #ifndef TRIANGLE_H
 #define TRIANGLE_H
 
+#include <iostream>
 #include <vector>
+#include <cmath>
+
+using namespace std;
 
 struct Point {
     double x, y;
@@ -11,17 +15,13 @@ struct Triangle {
     Point A, B, C;
 
     double area() const;
+    bool isDegenerate() const;
     bool contains(const Point &P) const;
     bool containsVector(const Point &P) const;
-    bool isDegenerate() const;
 };
 
-double distance(const Point &p1, const Point &p2);
-
-void inputTriangle(Triangle &t);
-void inputPoints(std::vector<Point> &points);
-void checkPointsInTriangle(const Triangle &t, const std::vector<Point> &points);
-
+double cross(const Point &P, const Point &A, const Point &B);
+bool isPointOnSegment(const Point &P, const Point &A, const Point &B);
 void print_menu();
 
-#endif // TRIANGLE_H
+#endif
