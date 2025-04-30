@@ -1,0 +1,70 @@
+# === Compiled object files ===
+*.o
+*.obj
+
+# === Executable files ===
+*.exe
+*.out
+*.app
+*.elf
+
+# === Debug and symbol files ===
+*.pdb
+*.idb
+*.map
+*.sym
+
+# === Precompiled Headers ===
+*.gch
+*.pch
+
+# === Compiled Dynamic Libraries ===
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# === Static Libraries ===
+*.lib
+*.a
+*.la
+
+# === CMake files ===
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# === Build directories ===
+build/
+out/
+bin/
+dist/
+Debug/
+Release/
+
+# === Logs and databases ===
+*.log
+*.sqlite
+*.db
+
+# === Backup and temporary files ===
+*~
+*.swp
+*.bak
+*.tmp
+*.temp
+.DS_Store
+
+# === Code::Blocks ===
+*.depend
+*.layout
+*.cbp
+*.layout.save
+
+# === CLion / JetBrains IDEs ===
+.idea/
+cmake-build-*/
+
+# === Visual Studio Code ===
+.vscode/
